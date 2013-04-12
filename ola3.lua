@@ -1,0 +1,8 @@
+--[[
+Author: Nathan Perry
+Lab: 4
+Class: Theory
+
+Purpose: an intro to lua program]]
+
+print("Hello World")
